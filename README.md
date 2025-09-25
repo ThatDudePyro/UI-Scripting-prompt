@@ -1,6 +1,6 @@
 # Nighty UI Scripting Framework Reference v1.0
 
-**Created by:** AI Assistant for Nighty Community
+**Created by:** thatdudepyro using claude.ai
 
 **Based on:** Official Nighty UI Scripting Documentation
 
